@@ -8,7 +8,7 @@ aioqbt
 cloudscraper
 dnspython
 ElectroCrypto
-kurigram
+electrogram
 fastapi
 feedparser
 google-api-python-client
